@@ -2,6 +2,10 @@ package tbc;
 
 public class Main {
     public static void main(String[] args) {
-        IO.println(String.format("Hello and welcome!"));
+        System.out.println("Hi");
+    }
+
+    private  static  void someNewFunction(){
+        System.out.println("Hi but new");
     }
 }
