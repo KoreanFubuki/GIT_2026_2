@@ -8,7 +8,7 @@ public class Main {
     }
 
     private  static  void someNewFunction(){
-        System.out.println("Hi but new old");
+        System.out.println("Hi but new but newer");
     }
 
     private static int someIntegerFunction(){
