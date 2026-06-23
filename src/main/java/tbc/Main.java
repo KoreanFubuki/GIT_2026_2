@@ -3,6 +3,7 @@ package tbc;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hi");
+        boolean booleanValue = someBooleanFunction();
     }
 
     private  static  void someNewFunction(){
@@ -10,6 +11,6 @@ public class Main {
     }
 
      private static boolean someBooleanFunction(){
-        return 1;
+        return true;
     }
 }
