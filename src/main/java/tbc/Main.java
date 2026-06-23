@@ -8,4 +8,8 @@ public class Main {
     private  static  void someNewFunction(){
         System.out.println("Hi but new");
     }
+
+     private static int someIntegerFunction(){
+        return 1;
+    }
 }
