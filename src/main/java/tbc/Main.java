@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Hi but new");
     }
 
-     private static int someIntegerFunction(){
+     private static boolean someBooleanFunction(){
         return 1;
     }
 }
