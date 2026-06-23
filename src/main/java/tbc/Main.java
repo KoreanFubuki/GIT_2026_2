@@ -2,11 +2,10 @@ package tbc;
 
 public class Main {
     public static void main(String[] args) {
-        IO.println(String.format("Hello and welcome!"));
-        String result = someNewFunction("MESSAGE");
+        System.out.println("Hi");
     }
 
-    private static String someNewFunction(String message){
-        return  message;
+    private  static  void someNewFunction(){
+        System.out.println("Hi but new");
     }
 }
